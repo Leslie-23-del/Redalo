@@ -147,8 +147,7 @@
           track.style.animationPlayState='paused';
         },460);
       });
-    });
-    ![Imagen Snoopy](Clipart%20de%20Snoopy%20para%20San%20Valent%C3%ADn.jpg)
+    });<img src="snoopy.jpg" width="300">
 
 
     // Para probar rápidamente en escritorio: permite avanzar a sorpresa con tecla S
