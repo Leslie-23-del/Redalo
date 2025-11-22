@@ -148,6 +148,8 @@
         },460);
       });
     });
+    ![Imagen Snoopy](Clipart%20de%20Snoopy%20para%20San%20Valent%C3%ADn.jpg)
+
 
     // Para probar rápidamente en escritorio: permite avanzar a sorpresa con tecla S
     document.addEventListener('keydown',(e)=>{ if(e.key.toLowerCase()==='s'){ surprise.classList.add('show'); } });
